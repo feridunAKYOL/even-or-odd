@@ -16,7 +16,7 @@ function saveHandler() {
 	} else {
 		strings.evens.push(input);
 	}
-	document.getElementById('input').reset();
+
 	// log user interaction: handler name, user input, new state
 	log.push({
 		handler: 'save',
