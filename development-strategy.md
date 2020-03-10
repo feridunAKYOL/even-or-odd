@@ -24,24 +24,24 @@ Building this site one step at a time
 
 ## 4. User Story: `save`
 
-> * A user can add whatever he/she wants. each time the `input` is saved in the back. without clicking any button `evens` , `odds` or `nany` he cannot see anything .
-> * I wrote `listener/save.js` &  `handlers/save.js`
-> * The Handler function save the users input and also sort the inputs into 3 categories: `even` , `odd` and `not a number`.
+* A user can add whatever he/she wants. each time the `input` is saved in the back. without clicking any button `evens` , `odds` or `nany` he cannot see anything .
+* I wrote `listener/save.js` &  `handlers/save.js`
+* The Handler function save the users input and also sort the inputs into 3 categories: `even` , `odd` and `not a number`.
 
-## 5. User Story: `evens`
+## 5. User Story: `evens`.
 
-> * A user can see the even numbers. 
-> * I wrote `listener/display-evens.js` &  `handlers/display-evens.js`
-> * The Handler function shows the even numbers.
+* A user can see the even numbers. 
+* I wrote `listener/display-evens.js` &  `handlers/display-evens.js`
+* The Handler function shows the even numbers.
 
-## 6. User Story: `odds`
+## 6. User Story: `odds`.
 
-> * A user can see the even numbers. 
-> * I wrote `listener/display-odds.js` &  `handlers/display-odds.js`
-> * The Handler function shows the odds numbers.
+* A user can see the even numbers. 
+* I wrote `listener/display-odds.js` &  `handlers/display-odds.js`
+* The Handler function shows the odds numbers.
 
 ## 7. User Story: `nany`
 
-> * A user can see inputs apart from numbers. 
-> * I wrote `listener/display-nany.js` &  `handlers/display-nany.js`
-> * The Handler function shows the inputs which are not a number.
+* A user can see inputs apart from numbers. 
+* I wrote `listener/display-nany.js` &  `handlers/display-nany.js`
+* The Handler function shows the inputs which are not a number.
